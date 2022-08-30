@@ -1,0 +1,13 @@
+.logo{
+    font-size: 3rem;
+    margin-bottom: 5px;
+}
+.navbar{
+    color: black;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    font-size: 1.8rem;
+    color: white;
+    margin-right: 10px;
+}
